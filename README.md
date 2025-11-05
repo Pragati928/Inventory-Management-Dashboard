@@ -12,8 +12,6 @@ This project was developed by **Pragati Kumari (Data Analyst)** to showcase real
 
 ![Dashboard](screenshots/1.png)
 
-![Dashboard](screenshots/2.png)
-
 ![Dashboard](screenshots/3.png)
 
 ![Dashboard](screenshots/4.png)
