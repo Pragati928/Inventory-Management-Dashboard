@@ -6,6 +6,20 @@ This project was developed by **Pragati Kumari (Data Analyst)** to showcase real
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/2.png)
+![Dashboard](screenshots/3.png)
+![Dashboard](screenshots/4.png)
+![Dashboard](screenshots/5.png)
+![Dashboard](screenshots/6.png)
+![Dashboard](screenshots/7.png)
+![Dashboard](screenshots/8.png)
+
+---
+
 ## ★ Features  
 - **Dashboard & KPIs** — Track suppliers, products, categories, and low stock counts in real time.  
 - **Sales Trend Analysis** — Monthly sales captured, visualised in line chart.  
